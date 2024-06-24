@@ -1,0 +1,9 @@
+Main Ship Speed,Lead Times,Average Unit Price,# Units Sold,Gross Revenue,Total Costs,Gross Margin,Branded,Brand Awareness
+Large Parcel,1-2 Weeks,2500,400,1000000,600000,0.40,Y,0.90
+Small Parcel,72 Hours,291,2750,800000,565000,0.29,N,0.00
+Large Parcel,2-3 Weeks,3333,150,500000,450000,0.10,Y,0.87
+Small Parcel,24 Hours,179,7000,1250000,1000000,0.20,N,0.00
+Small Parcel,2-3 Weeks,180,2750,495000,425000,0.14,N,0.00
+Large Parcel,3-4 Weeks,12500,10,125000,85000,0.32,Y,0.08
+Small Parcel,48 Hours,225,1575,354375,300000,0.15,N,0.00
+Small Parcel,24 Hours,89,5000,445000,440000,0.01,N,0.00
